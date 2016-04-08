@@ -1,7 +1,9 @@
-colorama
-coloredlogs
-humanfriendly
-lxml
-qrcode
-requests
-six
+colorama==0.3.7
+coloredlogs==5.0
+humanfriendly==1.44.5
+lxml==3.6.0
+qrcode==5.2.2
+requests==2.9.1
+requests-toolbelt==0.6.0
+six==1.10.0
+wheel==0.24.0
